@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Sorting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1b3e52f-73d3-41ca-8786-b6e0a371bb04</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c8545df-125a-48f1-af43-4bb9bda7b59e</id>
+      <masked>false</masked>
+      <name>SortType</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f822584-0b23-44e0-b0a4-622669ae8daf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa4394c9-139c-44eb-97e1-20e7aa8e65fe</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ac5d83ae-8a65-414f-952b-e5405a17360d</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff4b8f4c-0243-4d1d-a1c6-cd91b7ec25d6</id>
+      <masked>false</masked>
+      <name>ZIP</name>
+   </variable>
+</TestCaseEntity>

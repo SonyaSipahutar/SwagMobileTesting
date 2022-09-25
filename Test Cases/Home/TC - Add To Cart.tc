@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Add To Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7b7d1c7-dd02-43a9-a1c7-290cd1b952e2</testCaseGuid>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>1ebf4105-74a7-465c-b385-6cbfdc1fe194</id>
+      <masked>false</masked>
+      <name>Products</name>
+   </variable>
+</TestCaseEntity>

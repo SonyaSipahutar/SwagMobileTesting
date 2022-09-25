@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Remove</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c2e8fb0-352b-4d88-b4e0-3afedad4f819</testCaseGuid>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>a2703453-36a8-4a4a-b38f-5423a2f6f0b3</id>
+      <masked>false</masked>
+      <name>RemoveProduct</name>
+   </variable>
+</TestCaseEntity>
